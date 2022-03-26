@@ -1,0 +1,6 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¶æ‚Ð
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶æ‚Ð
+-
+java:S1700"Rename field "retrofit"(ƒ¼Žò
